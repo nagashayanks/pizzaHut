@@ -1,0 +1,52 @@
+{
+  "allMenu": [
+  {
+    "categoryName": "Veg",
+    "foodList": [
+      {
+        "foodId":1,
+        "foodName":"corn pizza",
+        "price":250,
+        "rating":4
+      }
+     ]
+  },
+  {
+      "categoryName": "Veg",
+      "foodList": [
+        {
+          "foodId":2,
+          "foodName":"veg pizza",
+          "price":250,
+          "rating":4
+        }
+       ]
+    },
+    {
+      "categoryName": "NonVeg",
+      "foodList": [
+        {
+          "foodId":3,
+          "foodName":"chicken pizza",
+          "price":250,
+          "rating":4
+        }
+       ]
+    }
+  ],
+  "preferences": [
+
+        {
+          "foodId":1,
+          "foodName":"corn pizza",
+          "price":250,
+          "rating":4
+        },
+        {
+          "foodId":2,
+          "foodName":"veg pizza",
+          "price":250,
+          "rating":4
+        }
+       ]
+}
